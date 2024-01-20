@@ -1,6 +1,6 @@
 import re
 email=str(input("Enter your Emailid:"))
-match=re.search(r"@",email)
+match=re.search(r"@gmail",email)
 if match:
     print("your Email is correct")
 else:

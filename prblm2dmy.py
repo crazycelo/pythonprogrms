@@ -1,6 +1,6 @@
-date=int(input("enter the dateinput:"))
+year=int(input("enter the yearinput:"))
 month=int(input("enter the monthinput:"))
-year=int(input("enter the yeatinput:"))
+date=int(input("enter the dateinput:"))
 input=[year,month,date]
 print("originaldate:",input) 
 converteddate=input.reverse()

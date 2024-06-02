@@ -14,5 +14,5 @@ elif x>=5:
     dis=z*50//100
     print(z-dis)  
 else:
-    print(z)    
+    print(z)      
 

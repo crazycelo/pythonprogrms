@@ -11,3 +11,4 @@ o1=user("ambrose")
 o1.printall()
 print(o1.__dict__)
           
+
